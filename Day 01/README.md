@@ -1,0 +1,8 @@
+# Day 01
+
+
+Wallet 1 Account Address: 0xC43a4879F1cC7c3F4c993339b862b416Dd2a3F50
+
+Fund Wallet hash: 0x129de46442e4337eba30a6765f44a58aa377cfbd9aca714479c49b6c6ecdcff0
+
+Transfer 0.1 Sep: 0x1af93f0629bf6d49f0a34d92dfcdea47ce44fe5aab4143f7d68bdf3e7cce3079

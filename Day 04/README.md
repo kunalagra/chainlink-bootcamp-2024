@@ -1,0 +1,4 @@
+# Day 04
+
+
+CCIPTokenSenderFujiSepolia.sol SCA: 0x66c6203466b877A2a94cc2aa23fFD6EEe34A8758

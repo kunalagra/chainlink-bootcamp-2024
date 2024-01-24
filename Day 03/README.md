@@ -1,0 +1,6 @@
+# Day 03
+
+
+Token.sol SCA: 0x433Df681BfECfEBd115cBEdb5F7Cf72dc3b8906A
+
+TokenShop.sol SCA: 0xF3C3d18a42a0e4c09d551877d5a37B8BecFE9465
