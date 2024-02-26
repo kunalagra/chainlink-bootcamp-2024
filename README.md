@@ -2,6 +2,8 @@
 
 Chainlink Bootcamp 2024 by ​Solange Gueiros
 
+My Proof of Attendance: https://collectors.poap.xyz/token/7013080
+
 Importtant Links:
 - Pad: https://pad.riseup.net/p/cl-en-01 (change last digits to other days)
 - Lectures: https://lu.ma/qoqfl19p
